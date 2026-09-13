@@ -1,0 +1,6 @@
+export const SAMPLE_PROCEDURE = `EXPERIMENTAL SECTION:
+Synthesis of 4-(4-fluorophenyl)benzonitrile (3a):
+To a stirred solution of 4-bromobenzonitrile (1a, 1.82 g, 10.0 mmol) and (4-fluorophenyl)boronic acid (2a, 1.68 g, 12.0 mmol) in 1,4-dioxane/H2O (4:1, 30 mL) was added Pd(PPh3)4 (231 mg, 0.2 mmol) and K2CO3 (2.76 g, 20.0 mmol). The reaction mixture was degassed with N2 for 15 min and stirred at 90 °C for 8 h. After cooling to room temperature, the mixture was filtered through Celite and extracted with ethyl acetate. The combined organic layers were dried over Na2SO4 and concentrated under reduced pressure. Purification by silica gel column chromatography (hexane/EtOAc 10:1) afforded 4-(4-fluorophenyl)benzonitrile (3a) as a white solid (1.71 g, 87% yield).
+
+Subsequent Step - Synthesis of 4-(4-fluorophenyl)benzaldehyde (4a):
+Under an argon atmosphere, diisobutylaluminum hydride (DIBAL-H, 1.0 M in toluene, 12 mL, 12.0 mmol) was added dropwise to a cooled (-78 °C) solution of 4-(4-fluorophenyl)benzonitrile (3a, 1.58 g, 8.0 mmol) in anhydrous dichloromethane (40 mL). The mixture was stirred at -78 °C for 3 h, then quenched carefully with 1 M HCl. Extraction with CH2Cl2 followed by solvent evaporation gave 4-(4-fluorophenyl)benzaldehyde (4a) as a pale yellow solid (1.36 g, 85% yield).`;

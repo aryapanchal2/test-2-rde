@@ -1,0 +1,7 @@
+{
+  "name": "Reaction Text Extractor",
+  "description": "Upload chemistry research papers to extract which starting materials convert into which products in written text form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
